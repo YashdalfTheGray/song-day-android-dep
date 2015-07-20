@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Song a day</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

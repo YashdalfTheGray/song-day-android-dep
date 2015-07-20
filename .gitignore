@@ -155,3 +155,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Ignored files from Android Studio
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
